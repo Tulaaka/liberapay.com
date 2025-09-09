@@ -123,7 +123,7 @@ requests-oauthlib==0.8.0 \
     oauthlib==2.0.2 \
         --hash=sha256:b3b9b47f2a263fe249b5b48c4e25a5bce882ff20a0ac34d553ce43cff55b53ac
 
-xmltodict==0.8.4 \
+xmltodict==0.15.0 \
     --hash=sha256:fdca5247b6be861a95fc534581ad6eff6265472b5292b6d6d0c1d03a892f02b5
 
 sentry-sdk==1.16.0 \
